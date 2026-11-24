@@ -1,0 +1,74 @@
+Prompt 1:
+
+Summarize this report
+
+
+Prompt 2:
+
+
+You are assisting a CTO at a company that is planning its AI investments.
+
+TASK:
+Identify the three biggest AI-related risks or cautions raised in the attached report.
+
+CONTEXT:
+The CTO needs to decide where to be cautious before committing budget. Base your analysis only on the attached report.
+
+AUDIENCE:
+A senior technology leader who wants a brief, decision-ready view.
+
+FORMAT:
+Present your findings in a table with these columns:
+- Risk or caution
+- What the report says (include page numbers)
+- Strength of evidence (hard figure cited / expert opinion only)
+- Suggested next step
+
+Rank by how often or how strongly the report emphasises each point.
+
+Use a concise, professional tone. Do not add statistics or claims that are not in the report. Mark clearly where something is a prediction rather than a measured result.
+
+
+Prompt 3:
+
+You are assisting a Learning & Development manager at a mid-sized company.
+
+TASK:
+Identify the three most important findings in the attached report that should shape our upskilling plan.
+
+CONTEXT:
+The manager must decide where to focus a limited training budget. Base your analysis only on the attached report.
+
+AUDIENCE:
+A non-technical L&D manager who needs actionable business insights, not technical detail.
+
+FORMAT:
+Present your findings in a table with these columns:
+- Finding
+- Supporting evidence (include page numbers)
+- Evidence type (survey or platform data / author prediction)
+- Recommended action
+
+Rank the findings by relevance to upskilling decisions, most relevant first.
+
+Use a concise, professional tone. Do not invent facts, statistics, or causes that are not in the report. Clearly distinguish what the report states from your recommendations.
+
+
+Prompt 4: 
+
+You are assisting a security manager at an online retailer.
+
+TASK:
+Summarise the cybersecurity predictions in the attached report and identify which two are most relevant to a retailer.
+
+CONTEXT:
+The manager is preparing a short briefing for leadership. Use only the attached report. If the report does not address retail directly, say so rather than assuming.
+
+AUDIENCE:
+Non-technical executives.
+
+FORMAT:
+- A table with columns: Prediction | Evidence cited (with page) | Why it matters to a retailer | Suggested action
+- Then a 3-sentence plain-English summary for executives.
+
+Use a concise, professional tone. Do not invent facts or figures. Label the "why it matters" and "suggested action" columns as your own analysis, not the report's.
